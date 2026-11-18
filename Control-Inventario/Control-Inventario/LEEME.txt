@@ -1,0 +1,14 @@
+CONTROL DE INVENTARIO (prendas)
+===============================
+OPCION A - Usar ya mismo (sin instalar nada)
+  Doble clic en ABRIR_SIN_EXE.bat  (abre inventario.html en tu navegador)
+
+OPCION B - Generar tu .exe
+  1. Instala Python (python.org, marcando "Add Python to PATH").
+  2. Doble clic en CREAR_EXE.bat  -> aparece ControlInventario.exe
+  3. Ese .exe abre la app en una ventana propia (Chrome/Edge).
+
+Datos: se guardan en tu equipo (navegador). El .exe y ABRIR_SIN_EXE.bat guardan
+por separado; usa "Respaldo" / "Restaurar" (barra lateral) para pasar datos.
+Funciones: productos, compras, ventas, stock automatico, alertas de reposicion,
+analisis (ingresos, ganancia, margen), Top 10 prendas mas vendidas, CSV.
